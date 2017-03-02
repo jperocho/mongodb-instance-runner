@@ -1,0 +1,3 @@
+# MongoDB Instance Runner
+./run
+
