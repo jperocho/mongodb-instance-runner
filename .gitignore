@@ -1,5 +1,5 @@
 *.swp
-!/data/.gitkeep
-/data/*
-!/log/.gitkeep
-/log/*
+!data/.gitkeep
+data/*
+!log/.gitkeep
+log/*
